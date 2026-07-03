@@ -1,4 +1,4 @@
-# 🏄 ESP32 Bluetooth Motor Control
+# 🏄 SUP eSurf Controller
 
 > 🌍 **English version** | **[Русская версия →](README_ru.md)**
 
